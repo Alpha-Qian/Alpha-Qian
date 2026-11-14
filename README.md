@@ -1,4 +1,4 @@
-# Hi, I'm a Developer 👋
+# Hi, I'm AlphaQian 👋
 
 I'm an undergraduate student who enjoys exploring programming languages, computer systems, and software engineering.
 
@@ -6,10 +6,14 @@ I like understanding how things work under the hood, building things from scratc
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 **Languages**
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+![Lean 4](https://img.shields.io/badge/Lean%204-000000?style=flat-square&logo=lean&logoColor=white)
 
 **Tools**
 
@@ -17,6 +21,7 @@ I like understanding how things work under the hood, building things from scratc
 ![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=astral&logoColor=white)
 ![ty](https://img.shields.io/badge/ty-5E5CE6?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 
 ## 🔧 Interests
 
