@@ -6,8 +6,6 @@ I like understanding how things work under the hood, building things from scratc
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 **Languages**
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
